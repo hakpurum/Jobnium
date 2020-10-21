@@ -1,2 +1,2 @@
 # Jobnium
- Jobnium is the best tool for us when we need a service that will work constantly and need to develop quickly.
+ It is a pure .NET Kernel library written in C# .NET, which is timed in Core applications so it has never been easier. Windows Service or separate processing options. Open and free for commercial use.
