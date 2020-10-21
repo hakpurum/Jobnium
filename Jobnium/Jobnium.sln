@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jobnium", "Jobnium\Jobnium.csproj", "{F2C09741-A60E-41B3-A63F-08FA9F085577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobniumWorkerExample", "JobniumWorkerExample\JobniumWorkerExample.csproj", "{BEDF99CC-0F22-40C1-9B80-0729203A2196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C09741-A60E-41B3-A63F-08FA9F085577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C09741-A60E-41B3-A63F-08FA9F085577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C09741-A60E-41B3-A63F-08FA9F085577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C09741-A60E-41B3-A63F-08FA9F085577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEDF99CC-0F22-40C1-9B80-0729203A2196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDF99CC-0F22-40C1-9B80-0729203A2196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDF99CC-0F22-40C1-9B80-0729203A2196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDF99CC-0F22-40C1-9B80-0729203A2196}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9CF3699-5F94-4DAB-8ED1-3ED430ABD84F}
+	EndGlobalSection
+EndGlobal

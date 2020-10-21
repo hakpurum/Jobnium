@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+    <TargetFrameworks>netcoreapp2.0;netcoreapp2.1;netcoreapp2.2;netcoreapp3.0;netcoreapp3.1</TargetFrameworks>
+    <Authors>Hasan Akpurum hakpurum@gmail.com</Authors>
+    <Description>Backround jobs and worker. http://yazilimcigunlug.com</Description>
+    <Copyright>Hasan Akpurum 2019-2020</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.9" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>

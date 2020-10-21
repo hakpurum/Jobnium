@@ -1,0 +1,9 @@
+D:\Store\TFS\AkpurumTfs\Jobnium\Jobnium-sqlite\Jobnium\bin\Debug\netcoreapp2.2\Jobnium.deps.json
+D:\Store\TFS\AkpurumTfs\Jobnium\Jobnium-sqlite\Jobnium\bin\Debug\netcoreapp2.2\Jobnium.dll
+D:\Store\TFS\AkpurumTfs\Jobnium\Jobnium-sqlite\Jobnium\bin\Debug\netcoreapp2.2\Jobnium.pdb
+D:\Store\TFS\AkpurumTfs\Jobnium\Jobnium-sqlite\Jobnium\obj\Debug\netcoreapp2.2\Jobnium.csprojAssemblyReference.cache
+D:\Store\TFS\AkpurumTfs\Jobnium\Jobnium-sqlite\Jobnium\obj\Debug\netcoreapp2.2\Jobnium.AssemblyInfoInputs.cache
+D:\Store\TFS\AkpurumTfs\Jobnium\Jobnium-sqlite\Jobnium\obj\Debug\netcoreapp2.2\Jobnium.AssemblyInfo.cs
+D:\Store\TFS\AkpurumTfs\Jobnium\Jobnium-sqlite\Jobnium\obj\Debug\netcoreapp2.2\Jobnium.csproj.CoreCompileInputs.cache
+D:\Store\TFS\AkpurumTfs\Jobnium\Jobnium-sqlite\Jobnium\obj\Debug\netcoreapp2.2\Jobnium.dll
+D:\Store\TFS\AkpurumTfs\Jobnium\Jobnium-sqlite\Jobnium\obj\Debug\netcoreapp2.2\Jobnium.pdb
