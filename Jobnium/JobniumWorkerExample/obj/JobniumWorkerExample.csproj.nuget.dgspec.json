@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Store\\TFS\\AkpurumTfs\\Jobnium\\Jobnium-sqlite\\JobniumWorkerExample\\JobniumWorkerExample.csproj": {}
+    "C:\\Users\\hakpurum\\Documents\\GitHub\\Jobnium\\Jobnium\\JobniumWorkerExample\\JobniumWorkerExample.csproj": {}
   },
   "projects": {
-    "D:\\Store\\TFS\\AkpurumTfs\\Jobnium\\Jobnium-sqlite\\JobniumWorkerExample\\JobniumWorkerExample.csproj": {
+    "C:\\Users\\hakpurum\\Documents\\GitHub\\Jobnium\\Jobnium\\JobniumWorkerExample\\JobniumWorkerExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Store\\TFS\\AkpurumTfs\\Jobnium\\Jobnium-sqlite\\JobniumWorkerExample\\JobniumWorkerExample.csproj",
+        "projectUniqueName": "C:\\Users\\hakpurum\\Documents\\GitHub\\Jobnium\\Jobnium\\JobniumWorkerExample\\JobniumWorkerExample.csproj",
         "projectName": "JobniumWorkerExample",
-        "projectPath": "D:\\Store\\TFS\\AkpurumTfs\\Jobnium\\Jobnium-sqlite\\JobniumWorkerExample\\JobniumWorkerExample.csproj",
+        "projectPath": "C:\\Users\\hakpurum\\Documents\\GitHub\\Jobnium\\Jobnium\\JobniumWorkerExample\\JobniumWorkerExample.csproj",
         "packagesPath": "C:\\Users\\hakpurum\\.nuget\\packages\\",
-        "outputPath": "D:\\Store\\TFS\\AkpurumTfs\\Jobnium\\Jobnium-sqlite\\JobniumWorkerExample\\obj\\",
+        "outputPath": "C:\\Users\\hakpurum\\Documents\\GitHub\\Jobnium\\Jobnium\\JobniumWorkerExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Store\\TFS\\AkpurumTfs\\Jobnium\\Jobnium-sqlite\\Jobnium\\Jobnium.csproj": {
-                "projectPath": "D:\\Store\\TFS\\AkpurumTfs\\Jobnium\\Jobnium-sqlite\\Jobnium\\Jobnium.csproj"
+              "C:\\Users\\hakpurum\\Documents\\GitHub\\Jobnium\\Jobnium\\Jobnium\\Jobnium.csproj": {
+                "projectPath": "C:\\Users\\hakpurum\\Documents\\GitHub\\Jobnium\\Jobnium\\Jobnium\\Jobnium.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Store\\TFS\\AkpurumTfs\\Jobnium\\Jobnium-sqlite\\Jobnium\\Jobnium.csproj": {
+    "C:\\Users\\hakpurum\\Documents\\GitHub\\Jobnium\\Jobnium\\Jobnium\\Jobnium.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Store\\TFS\\AkpurumTfs\\Jobnium\\Jobnium-sqlite\\Jobnium\\Jobnium.csproj",
+        "projectUniqueName": "C:\\Users\\hakpurum\\Documents\\GitHub\\Jobnium\\Jobnium\\Jobnium\\Jobnium.csproj",
         "projectName": "Jobnium",
-        "projectPath": "D:\\Store\\TFS\\AkpurumTfs\\Jobnium\\Jobnium-sqlite\\Jobnium\\Jobnium.csproj",
+        "projectPath": "C:\\Users\\hakpurum\\Documents\\GitHub\\Jobnium\\Jobnium\\Jobnium\\Jobnium.csproj",
         "packagesPath": "C:\\Users\\hakpurum\\.nuget\\packages\\",
-        "outputPath": "D:\\Store\\TFS\\AkpurumTfs\\Jobnium\\Jobnium-sqlite\\Jobnium\\obj\\",
+        "outputPath": "C:\\Users\\hakpurum\\Documents\\GitHub\\Jobnium\\Jobnium\\Jobnium\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

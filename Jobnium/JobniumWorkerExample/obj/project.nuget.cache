@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YxucAzZ6r7gDLhv+OYhP24I2vWPADgHO6YX0Qep5Q3HW/HwqgGhVnY4ZniNJ9z7nj/SVWMGwW7EEa/T9Wq/k7g==",
+  "dgSpecHash": "KY9JRws3TPW8uOjJ8mWraF4IE0eQGwfIcExKANuoC4FRtYnsrpBMVvssJd37gnq87/zA6td5Bh2oz0O0GllRPA==",
   "success": true,
-  "projectFilePath": "D:\\Store\\TFS\\AkpurumTfs\\Jobnium\\Jobnium-sqlite\\JobniumWorkerExample\\JobniumWorkerExample.csproj",
+  "projectFilePath": "C:\\Users\\hakpurum\\Documents\\GitHub\\Jobnium\\Jobnium\\JobniumWorkerExample\\JobniumWorkerExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hakpurum\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\hakpurum\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
